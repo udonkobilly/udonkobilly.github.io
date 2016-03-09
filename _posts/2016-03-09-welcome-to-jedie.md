@@ -14,7 +14,7 @@ Jekyll also offers powerful support for code snippets:
     import "fmt"
     
     func main() {
-	    fmt.Println("こんにちわ世界")
+	    fmt.Println("Hello World!")
     }
 
 Check out the [Jedie][jedie-gh] for more info.
